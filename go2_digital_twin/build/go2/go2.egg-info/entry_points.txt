@@ -1,0 +1,3 @@
+[console_scripts]
+go2_publisher = go2.go2_publisher:main
+

@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/go2/go2.egg-info
+writing ../../build/go2/go2.egg-info/PKG-INFO
+writing dependency_links to ../../build/go2/go2.egg-info/dependency_links.txt
+writing entry points to ../../build/go2/go2.egg-info/entry_points.txt
+writing requirements to ../../build/go2/go2.egg-info/requires.txt
+writing top-level names to ../../build/go2/go2.egg-info/top_level.txt
+writing manifest file '../../build/go2/go2.egg-info/SOURCES.txt'
+reading manifest file '../../build/go2/go2.egg-info/SOURCES.txt'
+writing manifest file '../../build/go2/go2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/unitree/go2_digital_twin/build/go2/build
+creating /home/unitree/go2_digital_twin/build/go2/build/lib
+creating /home/unitree/go2_digital_twin/build/go2/build/lib/go2
+copying go2/go2_publisher.py -> /home/unitree/go2_digital_twin/build/go2/build/lib/go2
+copying go2/__init__.py -> /home/unitree/go2_digital_twin/build/go2/build/lib/go2
+running install
+running install_lib
+creating /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2
+copying /home/unitree/go2_digital_twin/build/go2/build/lib/go2/go2_publisher.py -> /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2
+copying /home/unitree/go2_digital_twin/build/go2/build/lib/go2/__init__.py -> /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2
+byte-compiling /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2/go2_publisher.py to go2_publisher.cpython-38.pyc
+byte-compiling /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/unitree/go2_digital_twin/install/go2/share
+creating /home/unitree/go2_digital_twin/install/go2/share/ament_index
+creating /home/unitree/go2_digital_twin/install/go2/share/ament_index/resource_index
+creating /home/unitree/go2_digital_twin/install/go2/share/ament_index/resource_index/packages
+copying resource/go2 -> /home/unitree/go2_digital_twin/install/go2/share/ament_index/resource_index/packages
+creating /home/unitree/go2_digital_twin/install/go2/share/go2
+copying package.xml -> /home/unitree/go2_digital_twin/install/go2/share/go2
+running install_egg_info
+Copying ../../build/go2/go2.egg-info to /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2-0.0.0-py3.8.egg-info
+running install_scripts
+Installing go2_publisher script to /home/unitree/go2_digital_twin/install/go2/lib/go2
+writing list of installed files to '/home/unitree/go2_digital_twin/build/go2/install.log'

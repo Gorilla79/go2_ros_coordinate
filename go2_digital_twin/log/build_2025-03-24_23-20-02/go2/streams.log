@@ -1,0 +1,39 @@
+[1.177s] Invoking command in '/home/unitree/go2_digital_twin/src/go2': PYTHONPATH=/home/unitree/go2_digital_twin/build/go2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2 build --build-base /home/unitree/go2_digital_twin/build/go2/build install --record /home/unitree/go2_digital_twin/build/go2/install.log --install-scripts $base/lib/go2 --single-version-externally-managed install_data
+[1.546s] running egg_info
+[1.546s] creating ../../build/go2/go2.egg-info
+[1.547s] writing ../../build/go2/go2.egg-info/PKG-INFO
+[1.547s] writing dependency_links to ../../build/go2/go2.egg-info/dependency_links.txt
+[1.547s] writing entry points to ../../build/go2/go2.egg-info/entry_points.txt
+[1.547s] writing requirements to ../../build/go2/go2.egg-info/requires.txt
+[1.547s] writing top-level names to ../../build/go2/go2.egg-info/top_level.txt
+[1.550s] writing manifest file '../../build/go2/go2.egg-info/SOURCES.txt'
+[1.597s] reading manifest file '../../build/go2/go2.egg-info/SOURCES.txt'
+[1.598s] writing manifest file '../../build/go2/go2.egg-info/SOURCES.txt'
+[1.599s] running build
+[1.599s] running build_py
+[1.599s] creating /home/unitree/go2_digital_twin/build/go2/build
+[1.600s] creating /home/unitree/go2_digital_twin/build/go2/build/lib
+[1.600s] creating /home/unitree/go2_digital_twin/build/go2/build/lib/go2
+[1.600s] copying go2/go2_publisher.py -> /home/unitree/go2_digital_twin/build/go2/build/lib/go2
+[1.600s] copying go2/__init__.py -> /home/unitree/go2_digital_twin/build/go2/build/lib/go2
+[1.600s] running install
+[1.601s] running install_lib
+[1.602s] creating /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2
+[1.603s] copying /home/unitree/go2_digital_twin/build/go2/build/lib/go2/go2_publisher.py -> /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2
+[1.603s] copying /home/unitree/go2_digital_twin/build/go2/build/lib/go2/__init__.py -> /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2
+[1.603s] byte-compiling /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2/go2_publisher.py to go2_publisher.cpython-38.pyc
+[1.606s] byte-compiling /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2/__init__.py to __init__.cpython-38.pyc
+[1.607s] running install_data
+[1.607s] creating /home/unitree/go2_digital_twin/install/go2/share
+[1.608s] creating /home/unitree/go2_digital_twin/install/go2/share/ament_index
+[1.608s] creating /home/unitree/go2_digital_twin/install/go2/share/ament_index/resource_index
+[1.608s] creating /home/unitree/go2_digital_twin/install/go2/share/ament_index/resource_index/packages
+[1.608s] copying resource/go2 -> /home/unitree/go2_digital_twin/install/go2/share/ament_index/resource_index/packages
+[1.609s] creating /home/unitree/go2_digital_twin/install/go2/share/go2
+[1.609s] copying package.xml -> /home/unitree/go2_digital_twin/install/go2/share/go2
+[1.609s] running install_egg_info
+[1.610s] Copying ../../build/go2/go2.egg-info to /home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages/go2-0.0.0-py3.8.egg-info
+[1.611s] running install_scripts
+[1.641s] Installing go2_publisher script to /home/unitree/go2_digital_twin/install/go2/lib/go2
+[1.642s] writing list of installed files to '/home/unitree/go2_digital_twin/build/go2/install.log'
+[1.695s] Invoked command in '/home/unitree/go2_digital_twin/src/go2' returned '0': PYTHONPATH=/home/unitree/go2_digital_twin/build/go2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/unitree/go2_digital_twin/install/go2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/go2 build --build-base /home/unitree/go2_digital_twin/build/go2/build install --record /home/unitree/go2_digital_twin/build/go2/install.log --install-scripts $base/lib/go2 --single-version-externally-managed install_data
